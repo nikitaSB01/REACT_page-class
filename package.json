@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "yarn build && vite-plugin-gh-pages"
+    "preview": "vite preview"
   },
   "dependencies": {
     "prop-types": "^15.8.1",
